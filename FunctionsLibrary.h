@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <stdbool.h>
 #include <ctype.h>
 
 
@@ -26,7 +25,5 @@ void Delete_list_from_memory(node_lake** node);
 void Display_all_records(node_lake** node);
 
 void Display_records_by_characteristics(node_lake** node);
-
-int clear_stdin();
 
 #endif
