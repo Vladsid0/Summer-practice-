@@ -1,5 +1,5 @@
 /**
-* @file SummerPratice
+* @file SummerPraсtice
 * @author Сидоренко В. П.  515в
 * @date 14 липня 2022
 * @brief Робота з файлами
