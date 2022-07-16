@@ -124,11 +124,3 @@ bool Write_data_to_file(node_lake** node, const char* file)
 	return true;
 
 }
-
-
-// Clear stdin
-int clear_stdin()
-{
-	int c;
-	while ((c = getchar()) != '\n' && c != EOF);
-}
