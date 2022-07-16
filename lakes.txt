@@ -1,0 +1,13 @@
+Lake Name   Country   Depth   Salinity
+DonJuan   Antarctica  100    40.3
+Vanda   Antarctica  69    35.0
+Elton   Russia  1.5    28.0
+Lonar   India  132    10.7
+Shira   Russia  11    25.0
+Mono   California  47    6.9
+Baskunchak   Russia  3    30.0
+DeadSea   Israel  306    35.0
+Retba   Senegal  3    40.0
+BearLake   Russia  1    36.0
+Gaetel   Ethiopia  20    43.3
+MarChiquita   Argentina  10    17.5
